@@ -84,3 +84,6 @@ C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debu
 C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\Infrastructure.dll
 C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\Infrastructure.pdb
 C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\Core.pdb
+C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
