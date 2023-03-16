@@ -87,3 +87,5 @@ C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debu
 C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\kkpz919\OneDrive - AZCollaboration\Desktop\.net\skinet\API\API\bin\Debug\net6.0\StackExchange.Redis.dll
