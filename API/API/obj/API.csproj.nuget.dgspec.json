@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\API\\API.csproj": {}
+    "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\API\\API.csproj": {
+    "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\API\\API.csproj",
+        "projectPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\kkpz919\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\API\\obj\\",
+        "outputPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kkpz919\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Core\\Core.csproj": {
+    "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\kkpz919\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Core\\obj\\",
+        "outputPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kkpz919\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\kkpz919\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kkpz919\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -179,8 +179,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Core\\Core.csproj"
+              "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Core\\Core.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67KtXicL9PPQA5g1ZsoZr5ghJY2LrCj4BObz6ix0fNIa36b1e7dKT1wx4HiQ1relb/C9AxZNyqWwiIFmDNwPzA==",
+  "dgSpecHash": "hGTL5ELTyoaMhOP5BUA5M9i2oQ+20vZ4TeK6Pzl7KcHSIIn4d1R6/pWQiQC7yBLddo9mlGYR33A4ltde+nFieg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\skinet\\API\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\kkpz919\\OneDrive - AZCollaboration\\Desktop\\.net\\EcommerceWebSiteDotNetAngular\\API\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kkpz919\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\kkpz919\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
