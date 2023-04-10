@@ -4,6 +4,7 @@ import { Router } from '@angular/router';
 import { of, ReplaySubject } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { environment } from 'src/environments/environment';
+import { Address } from '../models/address';
 import { User } from '../models/user';
 
 @Injectable({
@@ -72,5 +73,14 @@ export class AccountService {
   checkEmailExists(email: string)
   {
     return this.http.get<boolean>(this.baseUrl + "account/emailExists?email=" + email);
+  }
+
+  getUserAddress(){
+    return this.http.get<Address>(this.baseUrl + "account/address");
+  }
+
+  updateAddress(address: Address)
+  {
+    return this.http.put(this.baseUrl + "account/address", address);
   }
 }
