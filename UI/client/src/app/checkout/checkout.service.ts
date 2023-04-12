@@ -1,4 +1,3 @@
-import { supportsPassiveEventListeners } from '@angular/cdk/platform';
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { map } from 'rxjs/operators';
