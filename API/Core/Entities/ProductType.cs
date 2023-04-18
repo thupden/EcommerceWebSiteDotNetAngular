@@ -1,6 +1,5 @@
-﻿using Core.Entities;
-
-namespace API.Entities
+﻿
+namespace Core.Entities
 {
     public class ProductType: BaseEntity
     {

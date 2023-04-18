@@ -1,5 +1,5 @@
 ﻿using API.Data;
-using API.Entities;
+using Core.Entities;
 using Core.Interface;
 using Microsoft.EntityFrameworkCore;
 
@@ -32,12 +32,12 @@ namespace Infrastructure.Data
 
         public async Task<IReadOnlyList<ProductType>> GetProductTypesAsync()
         {
-            return await _context.ProductTypes.ToListAsync();
+            return (IReadOnlyList<ProductType>)await _context.ProductTypes.ToListAsync();
         }
 
         public async Task<IReadOnlyList<ProductBrand>> GetProductBrandsAsync()
         {
-            return await _context.ProductBrands.ToListAsync();
+            return (IReadOnlyList<ProductBrand>)await _context.ProductBrands.ToListAsync();
         }
     }
 }

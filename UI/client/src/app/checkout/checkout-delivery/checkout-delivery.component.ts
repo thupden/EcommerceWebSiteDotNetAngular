@@ -23,7 +23,6 @@ export class CheckoutDeliveryComponent implements OnInit {
 
   setShippingPrice(deliveryMethod: DeliveryMethod)
   {
-    console.log(deliveryMethod);
     this.basketService.setShippingPrice(deliveryMethod);
   }
 
