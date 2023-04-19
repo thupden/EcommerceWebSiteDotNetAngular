@@ -1,4 +1,4 @@
-import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
 
 @Component({
   selector: 'app-pager',
@@ -9,6 +9,7 @@ export class PagerComponent implements OnInit {
 
   @Input() totalCount?: number;
   @Input() pageSize?: number;
+  @Input() pageNumber?: number;
   @Output() pageChanged = new EventEmitter<number>();
   constructor() { }
 

@@ -1,13 +1,17 @@
 <div class="container">
     <div class="row" *ngIf="types.length>0 && brands.length>0">
         <section class="col-3">
-            <h5 class="text-warning ms-3">Sort</h5>
+            <h5 class=" text-background ms-3">Sort</h5>
             <select class="custom-select mb-4" (change)="onSortSelected($event)">
-                <option *ngFor="let option of sortOptions" [value]="option.value">{{option.name}} {{option.value}}
+                <option *ngFor="let option of sortOptions" 
+                    [selected]="shopParams.sort === option.value"
+                    [value]="option.value"
+                    >
+                    {{option.name}} {{option.value}}
                 </option>
             </select>
 
-            <h5 class="text-warning ms-5">Brands</h5>
+            <h5 class="text-background  ms-5">Brands</h5>
             <ul class="list-group my-3">
                 <li class="list-group-item" *ngFor="let brand of brands" aria-current="true"
                     [class.active]="brand.id == shopParams.brandId" [value]="brand.id"
@@ -15,7 +19,7 @@
                     {{brand.name}}</li>
 
             </ul>
-            <h5 class="text-warning ms-5">Types</h5>
+            <h5 class="text-background  ms-5">Types</h5>
             <ul class="list-group my-3">
                 <li class="list-group-item" *ngFor="let type of types" aria-current="true"
                     [class.active]="type.id == shopParams.typeId" [value]="type.id" (click)="onTypeSelected(type.id)">
@@ -42,6 +46,7 @@
                 <app-pager 
                 [totalCount]="totalCount"
                 [pageSize]="shopParams.pageSize"
+                [pageNumber]="shopParams.pageNumber"
                 (pageChanged)="onPageChange($event)"></app-pager>
             </div>
         </section>
